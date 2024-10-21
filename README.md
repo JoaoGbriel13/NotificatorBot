@@ -71,5 +71,3 @@ As seguintes melhorias ainda precisam ser implementadas:
 3. **Suporte para Números não Verificados no Twilio**: Após adquirir uma licença paga, o sistema deve permitir o envio de mensagens para números não verificados.
 
 ---
-
-Com este `README.md`, os desenvolvedores e colaboradores terão uma visão clara sobre o projeto, suas funcionalidades, requisitos e o que ainda precisa ser implementado.
